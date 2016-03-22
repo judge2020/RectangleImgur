@@ -5,6 +5,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Diagnostics;
 using System.Drawing;
+using System.Drawing.Imaging;
 using System.Drawing.Text;
 using System.IO;
 using System.Linq;
@@ -33,12 +34,12 @@ namespace RectangleImgur
             {
                 string temppath = Path.Combine(Path.GetTempPath(), "rectangleimgur.bmp");
 
-                bmp.Save(temppath);
+                bmp.Save(temppath, ImageFormat.Png);
 
                 using (var w = new WebClient())
                 {
 
-                    string clientID = "xxx";
+                    string clientID = "xxxv1.0";
                     w.Headers.Add("Authorization", "Client-ID " + clientID);
 
                     var values = new NameValueCollection

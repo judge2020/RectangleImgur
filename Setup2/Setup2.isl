@@ -3870,7 +3870,6 @@
 		<row><td>RectangleImgur.exe_80B9574A5CF74A9BBC5F68DDE6932666.exe</td><td/><td>C:\Users\Judge2020\Documents\Visual Studio 2015\Projects\RectangleImgur\RectangleImgur\bin\Debug\RectangleImgur.exe</td><td>0</td></row>
 		<row><td>RectangleImgur.exe_C45A2CB017724F52953D8DFB57715E9A.exe</td><td/><td>C:\Users\Judge2020\Documents\Visual Studio 2015\Projects\RectangleImgur\RectangleImgur\bin\Debug\RectangleImgur.exe</td><td>0</td></row>
 		<row><td>UNINST_Uninstall_R_0A4738F2BA5848CFA00816F7ADA5235E.exe</td><td/><td>C:\Program Files (x86)\InstallShield\2015LE\Redist\Language Independent\OS Independent\uninstall.ico</td><td>0</td></row>
-		<row><td>UNINST_Uninstall_R_930D014C7AB8402AB5F4904F6AAF04AE.exe</td><td/><td>C:\Program Files (x86)\InstallShield\2015LE\Redist\Language Independent\OS Independent\uninstall.ico</td><td>0</td></row>
 	</table>
 
 	<table name="IniFile">
@@ -4380,7 +4379,7 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<row><td>PROGRAMFILETOLAUNCHATEND</td><td>[RECTANGLEIMGUR2]RectangleImgur.exe</td><td/></row>
 		<row><td>ProductCode</td><td>{335512E9-6A70-4AE5-A4B7-D0E01D29C180}</td><td/></row>
 		<row><td>ProductName</td><td>RectangleImgur</td><td/></row>
-		<row><td>ProductVersion</td><td>1.00.0000</td><td/></row>
+		<row><td>ProductVersion</td><td>1.1.0000</td><td/></row>
 		<row><td>ProgressType0</td><td>install</td><td/></row>
 		<row><td>ProgressType1</td><td>Installing</td><td/></row>
 		<row><td>ProgressType2</td><td>installed</td><td/></row>
@@ -4545,7 +4544,6 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<col def="S255">ISShortcutName</col>
 		<col def="I4">ISAttributes</col>
 		<row><td>UNINST_Uninstall_RectangleImgur</td><td>rectan_1_rectangleimgur</td><td>UNINST|Uninstall RectangleImgur</td><td>IS_ININSTALL_SHORTCUT</td><td>[SystemFolder]msiexec.exe</td><td>/x {335512E9-6A70-4AE5-A4B7-D0E01D29C180}</td><td/><td/><td>UNINST_Uninstall_R_0A4738F2BA5848CFA00816F7ADA5235E.exe</td><td>0</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>UNINST_Uninstall_RectangleImgur1</td><td>DesktopFolder</td><td>UNINST|Uninstall RectangleImgur</td><td>IS_ININSTALL_SHORTCUT</td><td>[SystemFolder]msiexec.exe</td><td>/x {335512E9-6A70-4AE5-A4B7-D0E01D29C180}</td><td/><td/><td>UNINST_Uninstall_R_930D014C7AB8402AB5F4904F6AAF04AE.exe</td><td>0</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
 		<row><td>_Built</td><td>rectan_1_rectangleimgur</td><td>##IDS_SHORTCUT_DISPLAY_NAME3##</td><td>RectangleImgur.Primary_output2</td><td>AlwaysInstall</td><td/><td/><td/><td/><td/><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
 		<row><td>_Built1</td><td>DesktopFolder</td><td>##IDS_SHORTCUT_DISPLAY_NAME3##</td><td>RectangleImgur.Primary_output2</td><td>AlwaysInstall</td><td/><td/><td/><td/><td/><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
 	</table>
